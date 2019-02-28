@@ -1,0 +1,20 @@
+#block
+{
+	display: inline;
+	background-color: blue;
+	border-radius: 15px;
+}
+#body_background
+{
+	background-color: black;
+}
+#form
+{
+	color: white;
+	background-color: black;
+}
+.div_color
+{
+	color: black;
+	background-color: lightblue;
+}
